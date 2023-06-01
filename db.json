@@ -47,21 +47,6 @@
       "Workshop": "DevOps Workshop",
       "Description": "Understand the DevOps culture, tools, and practices that facilitate collaboration between development and operations teams.",
       "Images": "https:\/\/github.com\/naseeb0\/SpringBoot\/assets\/64632758\/db5cea96-7f77-49eb-bd50-2a14d1753ed6"
-     },
-     {
-      "College": "Tribhuvan University",
-      "Latitude": "27.6784° N",
-      "Longitude": "85.2917° E",
-      "North": "27.6784° N",
-      "East": "85.2917° E",
-      "West": "85.2917° E",
-      "South": "27.6784° N",
-      "Ratings": 4,
-      "Level": 2,
-      "Genre": "Data Science and Machine Learning",
-      "Workshop": "NumPy Workshop",
-      "Description": "Dive into NumPy library for scientific computing and data manipulation in Python.",
-      "Images": "https:\/\/github.com\/naseeb0\/SpringBoot\/assets\/64632758\/88e9a22d-fc44-45a7-a479-1b9958b7bb99"
      }
     ]
     }
